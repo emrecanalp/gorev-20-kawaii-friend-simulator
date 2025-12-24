@@ -1,0 +1,1 @@
+# gorev-20-kawaii-friend-simulator
