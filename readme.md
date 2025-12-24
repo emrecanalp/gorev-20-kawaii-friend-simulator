@@ -146,7 +146,7 @@ Dijital arkadaşınızı oluşturun ve onunla etkileşime geçin! Tamagotchi/Tom
 
 ### 1. Projeyi Klonla
 ```bash
-git clone https://github.com/YOUR_USERNAME/kawaii-friend-simulator.git
+git clone https://github.com/emrecanalp/gorev-20-kawaii-friend-simulator.git
 cd kawaii-friend-simulator
 ```
 
